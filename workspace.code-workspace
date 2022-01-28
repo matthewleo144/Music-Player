@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Music Player 2",
+			"path": "."
+		},
+		{
+			"path": "..\\Auto Complete"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503,
+		"liveServer.settings.multiRootWorkspaceName": "Music Player 2"
+	}
+}
